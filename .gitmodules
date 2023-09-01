@@ -1,0 +1,4 @@
+[submodule "jack-the-writer/public"]
+	path = jack-the-writer/public
+	url = https://github.com/jack-the-writer/jack-the-writer.github.io.git
+	branch = main
